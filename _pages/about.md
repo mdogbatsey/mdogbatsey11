@@ -23,4 +23,4 @@ redirect_from:
 Certificates
 ======
 * 2020 Graduate Certificate in Business Management ([AIMS-ESMT Industry Immersion Program](https://nexteinstein.org/?i2=aims-esmt-industry-immersion-program-2){:target="_blank"}), [ESMT Berlin](https://esmt.berlin){:target="_blank"}, Berlin, Germany
-* 2019 Ghana Stock Exchange [Securities Certification](https://www.gisinstitute.org){:target="_blank"}, [Ghana Stock Exchange](https://gse.com.gh){:target="_blank"}, Accra, Ghana
+* 2019 Ghana Stock Exchange [Securities Certification](https://www.gisinstitute.org){:target="_blank"}, [Ghana Stock Exchange](https://gse.com.gh){:target="_blank"}, Accra, Ghana.
