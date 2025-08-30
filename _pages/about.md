@@ -30,6 +30,8 @@ Certificates
 
 News
 ======
+* **10-12/10/2025** I will be at [The 10th Annual Meeting of SIAM Central States Section](https://siam.uark.edu) at University of Arkansas, Fayetteville, AK.
+* **3-5/10/2025** I will be at the [2025 AMS Fall Southeastern Sectional Meeting](https://www.ams.org/meetings/sectional/2328_program.html) at the University of Tulane, LA.
 * **2025** Attended the SIAM SEAS Conference at the University of Tennessee.
 * **2024** Attended the Joint Mathematics Meeting in San Francisco, CA.
 * **2023** Got our first paper "Curtailing crime dynamics: A mathematical approach" published with Theophilus Kwofie and Stephen Moore.
