@@ -14,10 +14,10 @@ redirect_from:
  
  Education
 ======
-* 2021 - 2026 Ph.D. in Mathematics, [The University of Alabama](https://www.ua.edu){:target="_blank"}, Tuscaloosa, AL, USA
-* 2021 - 2023 M.A. in Mathematics, [The University of Alabama](https://www.ua.edu){:target="_blank"}, Tuscaloosa, AL, USA
-* 2019 - 2020 M.Sc. in Mathematical Sciences, [The African Institute for Mathematical Sciences](https://aims.edu.gh){:target="_blank"}, Ghana (AIMS - GH)
-* 2013 - 2017 B.Sc. in Mathematics with Economics, [University of Cape Coast](https://ucc.edu.gh){:target="_blank"}, Ghana
+* **2021 - 2026** Ph.D. in Mathematics, [The University of Alabama](https://www.ua.edu){:target="_blank"}, Tuscaloosa, AL, USA
+* **2021 - 2023** M.A. in Mathematics, [The University of Alabama](https://www.ua.edu){:target="_blank"}, Tuscaloosa, AL, USA
+* **2019 - 2020** M.Sc. in Mathematical Sciences, [The African Institute for Mathematical Sciences](https://aims.edu.gh){:target="_blank"}, Ghana (AIMS - GH)
+* **2013 - 2017** B.Sc. in Mathematics with Economics, [University of Cape Coast](https://ucc.edu.gh){:target="_blank"}, Ghana
 
 
 Certificates
