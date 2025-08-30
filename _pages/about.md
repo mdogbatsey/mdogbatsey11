@@ -24,3 +24,15 @@ Certificates
 ======
 * 2020 Graduate Certificate in Business Management ([AIMS-ESMT Industry Immersion Program](https://nexteinstein.org/?i2=aims-esmt-industry-immersion-program-2){:target="_blank"}), [ESMT Berlin](https://esmt.berlin){:target="_blank"}, Berlin, Germany
 * 2019 Ghana Stock Exchange [Securities Certification](https://www.gisinstitute.org){:target="_blank"}, [Ghana Stock Exchange](https://gse.com.gh){:target="_blank"}, Accra, Ghana.
+
+
+
+
+News
+======
+* **2025** Attended the SIAM SEAS Conference at the University of Tennessee.
+* **2024** Attended the Joint Mathematics Meeting in San Francisco, CA.
+* **2023** Got our first paper "Curtailing crime dynamics: A mathematical approach" published with Theophilus Kwofie and Stephen Moore.
+* **2021** Got admitted to The University of Alabama to pursue PhD Mathematics.
+* **2020** Graduated from AIMS-GH.
+* **2019** Got admitted to the African Institute for Mathematical Sciences, Ghana (AIMS-GH).
