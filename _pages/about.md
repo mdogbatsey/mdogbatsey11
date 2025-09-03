@@ -32,9 +32,3 @@ News
 ======
 * **11-12/10/2025** I will be at [The 10th Annual Meeting of SIAM Central States Section](https://siam.uark.edu) at University of Arkansas, Fayetteville, AK.
 * **3-5/10/2025** I will be at the [2025 AMS Fall Southeastern Sectional Meeting](https://www.ams.org/meetings/sectional/2328_program.html) at Tulane University, New Orleans, LA.
-* **2025** Attended the [SIAM SEAS Conference](https://math.utk.edu/siam-seas/) at the University of Tennessee.
-* **2024** Attended the [Joint Mathematics Meeting](https://meetings.ams.org/math/jmm2024/meetingapp.cgi/Paper/31997) in San Francisco, CA.
-* **2023** Got our first paper "Curtailing crime dynamics: A mathematical approach" published with Theophilus Kwofie and Stephen Moore.
-* **2021** Got admitted to The University of Alabama to pursue PhD Mathematics.
-* **2020** Graduated from AIMS-GH.
-* **2019** Got admitted to the African Institute for Mathematical Sciences, Ghana (AIMS-GH).
