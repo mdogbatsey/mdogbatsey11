@@ -9,6 +9,7 @@ author_profile: true
 Talks
 ======
  -->
+* [SIAM CSS 2025](https://siam.uark.edu){:target="_blank"}, University of Arkansas, Fayetteville, AR, USA - October 2025.
 * [2025 Southeast Applied and Computational Mathematics Graduate Student Workshop](https://webhome.auburn.edu/~tzh0059/2025ACMworkshop.html){:target="_blank"}, Auburn University, Auburn, AL, USA - April 2025.
 * [SIAM SEAS 2025](https://math.utk.edu/siam-seas/){:target="_blank"}, The University of Tennessee, Knoxville, TN, USA - March 2025.
 * [Joint Mathematics Meeting 2024](https://meetings.ams.org/math/jmm2024/meetingapp.cgi/Paper/31997){:target="_blank"}, San Francisco, CA, USA - January 2024.

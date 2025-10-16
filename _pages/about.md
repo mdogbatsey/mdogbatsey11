@@ -28,7 +28,7 @@ Certificates
 
 
 
-News
+<!-- News
 ======
 * **11-12/10/2025** I will be at [The 10th Annual Meeting of SIAM Central States Section](https://siam.uark.edu) at University of Arkansas, Fayetteville, AK.
-* **3-5/10/2025** I will be at the [2025 AMS Fall Southeastern Sectional Meeting](https://www.ams.org/meetings/sectional/2328_program.html) at Tulane University, New Orleans, LA.
+* **3-5/10/2025** I will be at the [2025 AMS Fall Southeastern Sectional Meeting](https://www.ams.org/meetings/sectional/2328_program.html) at Tulane University, New Orleans, LA. -->

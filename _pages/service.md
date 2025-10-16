@@ -36,9 +36,15 @@ Service
   
 Awards and Honors
 ======
+* AMS Travel Award for Sectional Meetings
+	* Received for Southeastern Fall Sectional Meeting at Tulane University.
+* Graduate Student Travel Award (2025) - The University of Alabama
+	* Received for SIAM CSS 2025 and AMS Southeastern Fall Sectional Meeting.
+* SIAM Student Travel Award (2025) - University of Arkansas
+	* Received for SIAM CSS 2025.
 * Student Travel Award (2025) - Auburn University
 	* Received for Southeast ACM Graduate Student Workshop.
-* Student Travel Award (2025) - The University of Tennesse
+* SIAM Student Travel Award (2025) - The University of Tennesse
 	* Received for SIAM SEAS 2025.
 * Graduate Student Travel Award (2025) - The University of Alabama
 	* Received for SIAM SEAS 2025 and Southeast ACM Graduate Workshop
