@@ -1,19 +1,19 @@
 // _sass/custom/_variables.scss
 
-// Override link colors to make them black
-$link-color: #000 !default; // Default link color (black)
-// $link-color: #DC143C;
-$link-color-hover: #333 !default; // Color when hovering over a link (optional, a dark grey is common)
-// $link-color-hover: #000 !default; // Use this if you want them to remain black even on hover
+// // Override link colors to make them black
+// $link-color: #000 !default; // Default link color (black)
+// // $link-color: #DC143C;
+// $link-color-hover: #333 !default; // Color when hovering over a link (optional, a dark grey is common)
+// // $link-color-hover: #000 !default; // Use this if you want them to remain black even on hover
 
 
 // _sass/custom/_variables.scss
 
-// // Set default (light theme) link color to Crimson
-// $link-color: crimson !default; // Using the CSS keyword 'crimson' or its hex code #DC143C
-// $link-color-hover: darken(crimson, 15%) !default; // A darker shade of crimson on hover
+// Set default (light theme) link color to Midnight Blue
+$link-color: #191970 !default; // Using the CSS keyword 'midnightblue' or its hex code #191970
+$link-color-hover: darken(#191970, 15%) !default; // A darker shade of midnight blue on hover
 
 // You can also adjust the visited link color if you like for the light theme:
 // a:visited {
-//   color: darken(crimson, 10%) !default; // A slightly darker crimson for visited links
+//   color: darken(#191970, 10%) !default; // A slightly darker midnight blue for visited links
 // }
