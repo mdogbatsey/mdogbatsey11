@@ -12,6 +12,7 @@
 // Set default (light theme) link color to Crimson
 $link-color: crimson !default; // Using the CSS keyword 'crimson' or its hex code #DC143C
 $link-color-hover: darken(crimson, 15%) !default; // A darker shade of crimson on hover
+$link-color-visited: darken(#191970, 10%); // Slightly darker blue for visited links
 
 // You can also adjust the visited link color if you like for the light theme:
 // a:visited {
