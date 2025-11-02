@@ -46,24 +46,24 @@
 // _sass/custom/_variables.scss
 
 // Set default (light theme) link color to Midnight Blue
-$link-color: #000080 !default; // Using the CSS keyword 'midnightblue' or its hex code #000080
-$link-color-hover: darken(#000080, 15%) !default; // A darker shade of midnight blue on hover
+$link-color: #191970 !default; // Using the CSS keyword 'midnightblue' or its hex code #191970
+$link-color-hover: darken(#191970, 15%) !default; // A darker shade of midnight blue on hover
 
 // You can also adjust the visited link color if you like for the light theme:
 // a:visited {
-//   color: darken(#000080, 10%) !default; // A slightly darker midnight blue for visited links
+//   color: darken(#191970, 10%) !default; // A slightly darker midnight blue for visited links
 // }
 // a {
-//   color: #000080; /* For standard links */
+//   color: #191970; /* For standard links */
 // }
 // // 
 // // a:visited {
-// //   color: #000080; /* Optional: For visited links, if you want them the same */
+// //   color: #191970; /* Optional: For visited links, if you want them the same */
 // // }
 // // 
 // a:hover {
 //   /* Optional: Define a hover color if desired, e.g., a darker midnight blue */
-//   color: darken(#000080, 15%);
+//   color: darken(#191970, 15%);
 // }
 // // 
 // // a:active {
