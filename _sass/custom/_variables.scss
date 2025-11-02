@@ -15,8 +15,7 @@
 
 // Set default (light theme) link color to Midnight Blue
 $link-color: #191970 !default; // Using the CSS keyword 'midnightblue' or its hex code #191970
-$link-color-hover: darken(#191970, 15%); // A darker shade of midnight blue on hover
-$link-color-visited: darken(#191970, 10%); // Slightly darker blue for visited links
+$link-color-hover: darken(#191970, 15%) !default; // A darker shade of midnight blue on hover
 
 // You can also adjust the visited link color if you like for the light theme:
 // a:visited {
