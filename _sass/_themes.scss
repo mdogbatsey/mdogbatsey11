@@ -13,6 +13,7 @@ $doc-font-size              : 16;
 $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
 
+<<<<<<< HEAD
 // /* System typefaces */
 // $serif                      : Georgia, Times, serif;
 // $sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
@@ -21,6 +22,11 @@ $indent-var                 : 1.3em;
 /* System typefaces */
 $serif                      : "Roboto Slab", Georgia, Times, serif;
 $sans-serif                 : "Roboto", -apple-system, ".SFNSText-Regular", "San Francisco", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+=======
+/* System typefaces */
+$serif                      : Georgia, Times, serif;
+$sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+>>>>>>> parent of 1c65818 (changed fonts)
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
 /* Sans serif typefaces */
