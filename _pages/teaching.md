@@ -9,7 +9,6 @@ author_profile: true
 
 Instructor
 ===
-- Spring 2026: Introduction to Linear Algebra
 - Summer 2025: [Precalculus Trigonometry](/files/Summer-2025-MATH-113-100-.pdf){:target="_blank"}
 - Spring 2025: [Calculus III](/files/Spring-2025-MATH-227-001-.pdf){:target="_blank"}
 - Spring 2024: [Applied Differential Equations I](/files/Spring-2024-MATH-238-009-.pdf){:target="_blank"}
