@@ -18,7 +18,7 @@ My research lies at the intersection of Scientific Computing, Numerical Analysis
 <!-- Preprints
 ======
 
-* **M. Dogbatsey**, Z. Chen, Y. Shao, and S. Zhao, Numerical solution to the three-dimensional p-Laplace equation: Finite difference methods and biological applications, preprint (2025). -->
+* **M. Dogbatsey**, M. B. Uddin, Y. Shao, Z. Chen, and S. Zhao, Variational Implicit Solvation model with Size-Modified Poisson Boltzmann and Diffuse interface, preprint (2026). -->
 
 
 <!-- 
