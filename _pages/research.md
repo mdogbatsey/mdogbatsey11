@@ -15,10 +15,10 @@ My research lies at the intersection of Scientific Computing, Numerical Analysis
 * **Mathematical Modeling:** Social dynamics modeling.
 
 
-Preprints
+<!-- Preprints
 ======
 
-* **M. Dogbatsey**, Z. Chen, Y. Shao, and S. Zhao, Numerical solution to the three-dimensional p-Laplace equation: Finite difference methods and biological applications, preprint (2025).
+* **M. Dogbatsey**, Z. Chen, Y. Shao, and S. Zhao, Numerical solution to the three-dimensional p-Laplace equation: Finite difference methods and biological applications, preprint (2025). -->
 
 
 <!-- 
